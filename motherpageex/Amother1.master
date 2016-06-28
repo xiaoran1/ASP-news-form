@@ -1,0 +1,111 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeFile="Amother1.master.cs" Inherits="motherpageex_Amother1" %>
+
+<!DOCTYPE html>
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head runat="server">
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <title></title>
+    <style type="text/css">
+        body {
+            width: 750px;
+            margin: 0px auto;
+            margin: 10px auto;
+        }
+
+        h2 {
+            margin-top: 1%;
+            border-style: groove;
+            border-color: #ff0000;
+            text-anchor: middle;
+        }
+
+        #div_head {
+            border: 1px solid gray;
+            height: 50px;
+            background-color: #b6ff00;
+            text-align: center;
+        }
+
+        #div_foot {
+            border: 1px solid gray;
+            height: 30px;
+            background-color: #b6ff00;
+            text-align: center;
+        }
+
+        #div_main {
+            border: 2px solid gray;
+            height: 340px;
+            background-color: #dedede;
+        }
+
+        #div_left {
+            float: left;
+            border: 1px solid black;
+            height: 100%;
+        }
+
+        #div_right {
+            float: right;
+            border: 1px solid black;
+            width: 339px;
+            height: 100%;
+        }
+
+            #div_right div {
+                border-bottom: dotted 1px;
+                padding: 10px;
+            }
+
+
+                #div_right div a {
+                    display: block;
+                    float: right;
+                    padding: 3px;
+                    border: 1px solid black;
+                    text-decoration: none;
+                    display: none;
+                }
+
+                    #div_right div a:hover {
+                        color: red;
+                    }
+
+        .clr {
+            clear: both;
+        }
+    </style>
+    <script src="../static/jquery-1.8.3.js"></script>
+    <script type="text/javascript">
+        $(document).ready(function () {
+            $("#div_right div").mouseover(function () {
+                $("a", this).show();
+            });
+            $("#div_right div").mouseout(function () {
+                $("a", this).hide();
+            });
+        });
+    </script>
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+</head>
+<body>
+    <form id="form1" runat="server">
+        <div>
+            <div id="div_head">
+                <h2>Online Editor</h2>
+            </div>
+            <div id="div_main">
+                <div id="div_left">
+                    <asp:ContentPlaceHolder ID="Content_main" runat="server">
+                    </asp:ContentPlaceHolder>
+                </div>
+                <div id="div_right" runat="server">menu</div>
+            </div>
+            <div class="clr"></div>
+            <div id="div_foot">Sponsered by Xiaoran</div>
+        </div>
+    </form>
+</body>
+</html>
