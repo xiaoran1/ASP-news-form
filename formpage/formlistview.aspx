@@ -160,7 +160,7 @@
                                 </div>
                                 <div class="flr" style="width: 90%">
                                     <div style="width: 100%; height: 40%;">
-                                        <a href="postingcontent.aspx?postingid=<%#Eval("postingId")%>>
+                                        <a href="postingcontent.aspx?postingid=<%#Eval("postingId")%>">
                                             <%#Eval("title") %>
                                         </a>
                                         <asp:LinkButton ID="LinkButton1" runat="server">

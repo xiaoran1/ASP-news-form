@@ -1,7 +1,48 @@
-He was acquired from the Chicago Blackhawks on Friday via trade.
 
-"We are very pleased to have agreed to a long-term deal with Andrew Shaw," said general manager Marc Bergevin. "As I mentioned last Friday following his acquisition, we are adding a solid character player to our team, a reliable player who plays with grit and a two-time Stanley Cup champion with the Chicago Blackhawks over the past five seasons. Andrew will add more leadership to our team.
 
-"I had the opportunity to discuss with him over the past few days, and I sense his determination and excitement in joining the Canadiens' organization for many years to come."
+****************************************************************
+sdsdsdsdsds
+千千静听是一款完全免费的音乐播放软件，集播放、音效、转换、歌词等众多功能于一身。其小巧精致、操作简捷、功能强大的特点，深得用户喜爱，被网友评为中国十大优秀软件之一，并且成为目前国内最受欢迎的音乐播放软件。
 
-A five-year NHL veteran, the Belleville, Ont., native won the Stanley Cup twice in Chicago, hoisting the NHL's championship trophy in 2012-13 and again in 2014-15.
+千千静听拥有自主研发的全新音频引擎，支持DirectSound、Kernel Streaming和ASIO等高级音频流输出方式、64比特混音、AddIn插件扩展技术，具有资源占用低、运行效率高，扩展能力强等特点。 
+
+千千静听支持几乎所有常见的音频格式，包括MP/mp3PRO、AAC/AAC+、M4A/MP4、WMA、APE、MPC、OGG、WAVE、CD、FLAC、RM、TTA、AIFF、AU等音频格式以及多种MOD和MIDI音乐，以及AVI、VCD、DVD等多种视频文件中的音频流，还支持CUE音轨索引文件。
+
+通过简单便捷的操作，可以在多种音频格式之间进行轻松转换，包括上述所有格式（以及CD或DVD中的音频流）到WAVE、MP3、APE、WMA等格式的转换；通过基于COM接口的AddIn插件或第三方提供的命令行编码器还能支持更多格式的播放和转换。
+
+千千静听支持高级采样频率转换(SSRC)和多种比特输出方式，并具有强大的回放增益功能，可在播放时自动将音量调节到最佳水平以实现不同文件相同音量；基于频域的10波段均衡器、多级杜比环绕、交叉淡入淡出音效，兼容并可同时激活多个Winamp2的音效插件。
+
+支持所有常见的标签格式，包括ID3v1/v2、WMA、RM、APE和Vorbis等，支持批量修改标签和以标签重命名文件，轻松管理播放列表；并且采用freedb接口实现自动在线获取CD的音轨信息的功能。 
+
+千千静听倍受用户喜爱和推崇的，还包括其强大而完善的同步歌词功能。在播放歌曲的同时，可以自动连接到千千静听庞大的歌词库服务器，下载相匹配的歌词，并且以卡拉OK式效果同步滚动显示，并支持鼠标拖动定位播放；另有独具特色的歌词编辑功能，可以自己制作或修改同步歌词，还可以直接将自己精心制作的歌词上传到服务器实现与他人共享。 
+
+此外，还有更多深受用户喜爱的人性化设计：支持音乐媒体库、多播放列表和音频文件搜索；贴心的播放跟随光标功能；多种视觉效果享受，支持视觉效果、歌词全屏显示及多种组合全屏显示模式；可进行专辑封面编辑和自制皮肤的更换；同时具有磁性窗口、半透明/淡入淡出窗口、窗口阴影、任务栏图标、自定义快捷键、信息滚动、菜单功能提示等多种个性化功能。
+
+真正永久免费且无需注册，不存在任何功能或时间限制！
+
+
+更新功能： 
+1、更换一款精美默认皮肤； 
+2、解决关闭软件进程退出慢的问题； 
+3、修改最小化换肤时部分面板隐藏的bug； 
+4、修改老版ttpl播放列表导入无法修改标签的bug； 
+5、修改其它小bug。
+
+本版特点：
+屏蔽播放时右下角弹出的 Flash 广告；
+
+****************************************************************
+====================================================================================
+注册机使用方法：
+
+1.安装好软件后，将注册机放在安装目录的文件夹内
+2.双击注册机，软件运行，看到有注册按钮后，点注册，在注册信息里填写用户名等，注册码随便填写
+3.点击确定按钮，注册机将出现正确的注册码，将刚才的注册名和正确注册码填入软件即可注册。
+
+破解补丁使用方法：
+1.安装好软件后，将补丁放在安装目录文件夹内
+2.运行补丁,后即可使用软件。即使软件显示未注册，但所有功能和时间限制都已经破除
+=====================================================================================
+由于部分杀毒软件把注册机，补丁等做为病毒查杀，请大家用补丁或注册机时关闭杀毒软件
+如不放心可以在注册完成后，用杀毒软件进行扫描查杀病毒。
+=====================================================================================

@@ -75,8 +75,9 @@ public class SqlHelper
     /// </summary>  
     /// <param name="strSql"></param>  
     /// <param name="parameters"></param>  
-    public static void ExecuteNonQuery(string strSql, params SqlParameter[] parameters)  
-    {  
+    public static int ExecuteNonQuery(string strSql, params SqlParameter[] parameters)  
+    {
+        int rownum = 0;
         using (SqlConnection conn = new SqlConnection(GetConnectionString()))  
         {  
             conn.Open();  
@@ -87,10 +88,11 @@ public class SqlHelper
                 foreach (SqlParameter p in parameters)  
                 {  
                     cmd.Parameters.Add(p);  
-                }  
-                cmd.ExecuteNonQuery();  
+                }
+                rownum = cmd.ExecuteNonQuery();  
             }  
-        }  
+        }
+        return rownum;
     }  
   
     /// <summary>  
